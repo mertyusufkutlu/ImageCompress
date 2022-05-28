@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLJVuV2pHXD9bCsXHDEZbrbYqp5OZRcvenoJ4CSjM0CxkohuwWrvz0rtvfi4bgbZHy97bnQyYiU1Qi+b6R6KKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hizligeliyo\\RiderProjects\\ConsoleAppPOC\\ConsoleAppPOC\\ConsoleAppPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hizligeliyo\\.nuget\\packages\\magick.net-q16-anycpu\\11.1.2\\magick.net-q16-anycpu.11.1.2.nupkg.sha512",
+    "C:\\Users\\hizligeliyo\\.nuget\\packages\\magick.net.core\\11.1.2\\magick.net.core.11.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
